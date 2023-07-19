@@ -159,7 +159,7 @@ blockquote {
 }
 
 .memos a:hover {
-    text-decoration: underline;
+    text-decoration: none;
 }
 
 .memos ul {
